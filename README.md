@@ -1,2 +1,10 @@
-# WiseFoxes-Server-Tools
-ARK: Survival Ascended server administration tools for WiseFoxes, including mod update checks, CurseForge metadata, and cluster utilities.
+# WiseFoxes Server Tools
+
+Utilities for managing the WiseFoxes ARK: Survival Ascended server cluster.
+
+Planned features include:
+
+- CurseForge mod version checking
+- Mod update monitoring
+- Server administration utilities
+- WiseFoxes plugin/mod integration
